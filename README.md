@@ -3,4 +3,4 @@
 ***
 
 - Week 1 Update: Serial code for TSP `tsp_serial.py` was implemented. Run this file using the command ``python tsp_serial.py -N <Number of Cities>``. Note that number of cities is an unsigned integer.
-- Week 2 Update: Parallelized code using CUDA. Original plan was to use Numba+CUDA but there are some errors which are taking time to resolve. Will try to complete that by next week.
+- Week 2 Update: Parallelized serial code(converted to C++ version) using CUDA. Original plan was to use Numba+CUDA but there are some errors which are taking time to resolve. Will try to complete that by next week.
